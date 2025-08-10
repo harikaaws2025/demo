@@ -1,5 +1,0 @@
-hyd
-banglore
-vizag
-chennai
-
